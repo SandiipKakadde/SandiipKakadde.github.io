@@ -10,15 +10,15 @@ Welcome! This repository contains my technical writing samples, created to demon
 - Comfortable working across global time zones with product managers, SMEs, and developers
 
 ## Tools & Technologies
-<b>Authoring Tools:<b> Oxygen XML, Arbortext Editor, IXIASOFT CMS, MS Office 365, Windchill
-<b>Standards & Frameworks:<b> DITA, XML, HTML/CSS, JSON, Markdown, MSTP, STE, Chicago Manual of Style, DDLC, SDLC
-<b>Testing & Tracking:<b> Jira, Confluence, Postman, Swagger, GitHub, Git, MS SharePoint
-<b>Visuals & Media:<b> Snagit, Adobe Illustrator, Camtasia, MS Paint
-<b>Platforms & OS:<b> Windows, VS Code
-<b>Other:<b> API documentation, context-sensitive help, CMS administration, agile/scrum
+- *Authoring Tools:* Oxygen XML, Arbortext Editor, IXIASOFT CMS, MS Office 365, Windchill
+- *Standards & Frameworks:* DITA, XML, HTML/CSS, JSON, Markdown, MSTP, STE, Chicago Manual of Style, DDLC, SDLC
+- *Testing & Tracking:* Jira, Confluence, Postman, Swagger, GitHub, Git, MS SharePoint
+- *Visuals & Media:* Snagit, Adobe Illustrator, Camtasia, MS Paint
+- *Platforms & OS:* Windows, VS Code
+- *Other:* API documentation, context-sensitive help, CMS administration, agile/scrum
 
 ## Get in touch
-- <b>Email:<b>sandiip.kakadde@gmail.com
-- <b>LinkedIn:<b>[Sandiip-Kakadde][def]
+- *Email:* sandiip.kakadde@gmail.com
+- *LinkedIn:* [Sandiip-Kakadde][def]
 
 [def]: linkedin.com/in/sandiipkakadde-92428b11/
