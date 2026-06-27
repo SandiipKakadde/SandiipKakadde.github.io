@@ -1,1 +1,2 @@
-# technical-writing-portfolio
+# Technical Writing Portfolio
+Welcome! This repository contains my technical writing samples, created to demonstrate my ability to clearly and effectively deliver technical information to diverse audiences. As a technical writer with strong communication skills, my philosophy is simple: make complex technical concepts clear, accurate, and genuinely useful for the reader. Thanks for stopping by—I hope you find something intriguing to connect with me.
